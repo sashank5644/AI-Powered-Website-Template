@@ -41,12 +41,12 @@
 
 .icon {
     color: var(--primary);
-    margin-right: 1rem;
+    margin-right: 2rem;
 }
 
 .placeholderOverlay {
     position: absolute;
-    left: 3.5rem;
+    left: 5rem;
     /* Adjust based on icon size + padding */
     top: 50%;
     transform: translateY(-50%);
